@@ -1,4 +1,3 @@
-// handlers.go
 // This file implements HTTP handlers for managing tasks in the task manager system. 
 // The handlers interact with the db package to perform CRUD operations on tasks, 
 // including creating, reading, updating, deleting, and filtering tasks. 
